@@ -19,7 +19,7 @@ public class GreetingController implements Controller
       String result = "";
       if (userName != null)
       {
-        result = "Hello, " + userName + "!";
+        result = "Hel2123123lo, " + userName + "!";
       }
 
       ModelAndView view = new ModelAndView("hello_view");
